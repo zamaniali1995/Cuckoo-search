@@ -1,1 +1,3 @@
 This code optimize y=-(x(1,1)^2+x(1,2)^2+x(1,3)^2) function with cuckoo search algorithm
+Paper:Bio-inspired computation: Recent development on the modifications
+of the cuckoo search algorithm
